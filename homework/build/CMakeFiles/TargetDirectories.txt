@@ -1,0 +1,3 @@
+/home/zhh/rmTraining/rm_training/homework/build/CMakeFiles/degree.dir
+/home/zhh/rmTraining/rm_training/homework/build/CMakeFiles/edit_cache.dir
+/home/zhh/rmTraining/rm_training/homework/build/CMakeFiles/rebuild_cache.dir

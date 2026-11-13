@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/degree.dir/src/main.cpp.o CMakeFiles/degree.dir/src/Angle.cpp.o -o degree 

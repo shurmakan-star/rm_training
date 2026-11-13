@@ -1,0 +1,24 @@
+%YAML:1.0
+---
+
+# White
+white_lower: [75, 0, 50]
+white_upper: [112, 58, 255]
+
+# Blue
+blue_lower: [62, 75,50]
+blue_upper: [120, 255, 255]
+
+# Red
+red_lower1: [0, 140, 65]
+red_upper1: [10, 255, 255]
+red_lower2: [156, 140, 65]
+red_upper2: [179, 255, 255]
+
+# Orange
+orange_lower: [11, 75, 25]
+orange_upper: [23, 255, 255]
+
+# Yellow
+yellow_lower: [24, 90, 65]
+yellow_upper: [50, 255, 255]

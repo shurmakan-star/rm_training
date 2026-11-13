@@ -18,6 +18,6 @@ double Angle::solver(double d)
         return -1;
      }
 
-     double theta2=asin(sin_2theta)/2;
-     return theta2;
+     double theta=asin(sin_2theta)/2;
+     return theta;
 }
