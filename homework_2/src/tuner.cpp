@@ -53,9 +53,10 @@ int main() {
         imshow("Color Extracted (提取结果)", result);
 
         char key = (char)waitKey(30);
-        if (key == 27) break; // ESC 退出
-        if (key == ' ') pause = !pause; // 空格暂停/播放
-        if (key == 'p' || key == 'P') { // 打印参数
+        if (key == 27) break; 
+        if (key == ' ') pause = !pause; 
+        if (key == 'p' || key == 'P')
+         { 
             cout << "\n>>> 记录参数: " << endl;
             cout << "Scalar(" << hmin << ", " << smin << ", " << vmin << "), "
                  << "Scalar(" << hmax << ", " << smax << ", " << vmax << ")" << endl;
