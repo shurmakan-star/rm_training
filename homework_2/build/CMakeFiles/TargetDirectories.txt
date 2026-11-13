@@ -1,4 +1,0 @@
-/home/zhh/rmTraining/rm_training/homework_2/build/CMakeFiles/main.dir
-/home/zhh/rmTraining/rm_training/homework_2/build/CMakeFiles/tuner.dir
-/home/zhh/rmTraining/rm_training/homework_2/build/CMakeFiles/edit_cache.dir
-/home/zhh/rmTraining/rm_training/homework_2/build/CMakeFiles/rebuild_cache.dir
