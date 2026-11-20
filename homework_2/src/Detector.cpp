@@ -2,7 +2,6 @@
 #include <iostream>
 #include <vector>
 #include <string>
-#include <algorithm>
 #include <opencv2/geometry.hpp> 
 
 void Detector::detect(const Mat& inputImage, Mat& resultImage) 
